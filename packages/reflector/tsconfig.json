@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "newLine": "lf",
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true
+    },
+    "files": [
+        "src/globals.d.ts",
+        "src/reflect.ts"
+    ]
+}

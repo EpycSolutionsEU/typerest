@@ -1,0 +1,15 @@
+{
+    "name": "@typerest/reflector",
+    "description": "Polyfill for metadata reflection api",
+    "version": "0.1.0",
+    "author": "David Stüwe",
+    "type": "commonjs",
+    "main": "src/reflect.ts",
+    "types": "index.d.ts",
+    "exports": {
+        ".": {
+            "types": "./src/index.d.ts",
+            "default": "./src/reflect.ts"
+        }
+    }
+}
