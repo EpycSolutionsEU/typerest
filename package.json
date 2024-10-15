@@ -1,0 +1,17 @@
+{
+    "name": "typerest",
+    "description": "Custom rest-api framework",
+    "version": "0.1.0",
+    "author": "Epyc Solutions",
+    "contributors": [
+        {
+            "name": "David Stüwe"
+        }
+    ],
+    "devDependencies": {
+        "@types/node": "22.7.5"
+    },
+    "dependencies": {
+        "typescript": "5.6.3"
+    }
+}
